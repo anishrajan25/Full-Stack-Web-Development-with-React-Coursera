@@ -20,5 +20,12 @@
   "homepage": "https://github.com/anishrajan25/Full-Stack-Web-Development-with-React-Coursera#readme",
   "devDependencies": {
     "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "bootstrap-social": "^5.1.1",
+    "fontawesome": "^5.6.3",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
   }
 }
